@@ -4,10 +4,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-@font-face {
-  font-family: "Prompt_Regular";
-  src: url("https://fonts.googleapis.com/css2?family=Prompt:wght@400;500&display=swap");
-}
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
