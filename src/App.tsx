@@ -1,6 +1,6 @@
 import React from "react";
 import "./App.css";
-import { SideNavbar } from "./containers";
+import { SideNavbar } from "src/containers";
 function App() {
   return (
     <div>
